@@ -51,4 +51,8 @@ form .display input{
 form input.equal{
     width: 145px;
 }
+form .nam{
+    text-align: center;
+    color: white;
+}
 
